@@ -1,1 +1,1 @@
-put the .exe file in Build folder and run the script, you will also need the python interpreter to run it.
+put the .exe file in Build folder and run the script, you will also need the python interpreter to run it. Also please add a Build file to the project as i could not figure out how to add one to github.
