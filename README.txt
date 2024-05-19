@@ -1,0 +1,1 @@
+put the .exe file in Build folder and run the script, you will also need the python interpreter to run it.
